@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "editor.renderIndentGuides": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.formatOnSave": true,
+  "prettier.eslintIntegration": true,
+  "prettier.stylelintIntegration": true,
+  "prettier.singleQuote": true,
+  "reason.codelens.enabled": true
+}
